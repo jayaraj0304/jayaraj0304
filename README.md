@@ -20,26 +20,6 @@ Here are some of the languages I am proficient in:
 - ML
 - PHP
 
-## My Projects
-
-### E-commerce - [View Repository](https://github.com/jayaraj0304/e-commerce)
-
-This repository showcases my project on building an e-commerce website. From creating the frontend UI using HTML and CSS to implementing the backend logic with JavaScript, this project demonstrates my skills in web development.
-
-### Movie Recommendation - [View Repository](https://github.com/jayaraj0304/movie-recommendation)
-
-In this repository, I have developed a movie recommendation system. Using Python's machine learning libraries, I trained a model on a movie dataset and provided recommendations based on user preferences. This project highlights my knowledge in data analysis and machine learning.
-
-### Social Media Sentiment Analysis - [View Repository](https://github.com/jayaraj0304/social-media-sentiment-analysis)
-
-Here, I have explored the field of natural language processing by building a sentiment analysis model. The project involves extracting data from social media platforms, processing the text using Python, and determining the sentiment of the user's posts. It showcases my skills in text analysis and machine learning.
-
-### House Price Prediction - [View Repository](https://github.com/jayaraj0304/house-price-prediction)
-
-This repository demonstrates my expertise in data analysis and modeling. I have developed a machine learning model to predict house prices based on various features such as location, area, and amenities. The project involves data preprocessing, feature engineering, and model training.
-
-These are just a few of my projects. You can explore more by visiting my [GitHub profile](https://github.com/jayaraj0304). Remember, star ratings only provide a subjective measure of a repository's popularity, so your support and feedback are always appreciated.
-
 ## Connect with Me
 
 If you have any questions, suggestions, or would like to discuss a collaboration, feel free to reach out to me. You can find me on:
