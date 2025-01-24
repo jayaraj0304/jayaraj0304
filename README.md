@@ -25,12 +25,10 @@ Here are some of the languages I am proficient in:
 If you have any questions, suggestions, or would like to discuss a collaboration, feel free to reach out to me. You can find me on:
 
 - GitHub: [jayaraj0304](https://github.com/jayaraj0304)
-- LinkedIn: [name](jayaraj-thamatam1)
+- LinkedIn: [name](www.linkedin.com/in/jayaraj-thamatam1)
 - Email: [email](mailto:jayarajthamatam123@gmail.com)
 
 I am open to new ideas and opportunities, so don't hesitate to contact me. Let's connect and make a difference together!
-
-![Streak Stats](https://streak-stats.demolab.com/?user=jayaraj0304)
 
 ## Thank You!
 
