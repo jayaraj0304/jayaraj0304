@@ -34,7 +34,8 @@
 ### 📊 Stats
 ![Jayaraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayaraj0304&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayaraj0304&layout=compact&theme=radical)
-![LeetCode Stats](https://leetcard.jacoblin.cool/jayaraj0304?theme=dark&font=Karma&ext=heatmap)
+![Codolio Stats](https://codolio.com/profile/jayaraj0304)
+
 
 ---
 
