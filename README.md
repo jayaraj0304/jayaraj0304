@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm Samrath! <img src="https://media.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" height="35" width="33"></h1>
+<h1 align="center"> Hi, I'm jayaraj! <img src="https://media.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" height="35" width="33"></h1>
 
 <p align="center">
   <a>
@@ -32,29 +32,29 @@
 ---
 
 ### 📊 Stats
-![Samrath's GitHub stats](https://github-readme-stats.vercel.app/api?username=samrathreddy&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samrathreddy&layout=compact&theme=radical)
-![LeetCode Stats](https://leetcard.jacoblin.cool/samrathreddy?theme=dark&font=Karma&ext=heatmap)
+![Jayaraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayaraj0304&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayaraj0304&layout=compact&theme=radical)
+![LeetCode Stats](https://leetcard.jacoblin.cool/jayaraj0304?theme=dark&font=Karma&ext=heatmap)
 
 ---
 
 ### 📫 Contact Information
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:samrathreddy04@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/samrath-reddy)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jayarajthamatam123@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jayaraj-thamatam1)
 
 ---
 
 ### 🌐 Coding Profiles
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/samrathreddy)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/samrathreddy) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/samrathreddy)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/jayaraj0304)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/jayarajthamatam1) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/jayaraj0304)
 
 ---
 
 ### 📜 Certifications/Courses
 
-[![Front End Web Development - Meta](https://img.shields.io/badge/Front%20End%20Web%20Development-Meta-blue?style=flat-square&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/certificate/379NV3CM563B)
-[![CyberSecurity Specialization - Google](https://img.shields.io/badge/CyberSecurity%20Specialization-Google-blue?style=flat-square&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/certificate/9P4GR59RTZXT)
-[![Node JS Course – Scalar](https://img.shields.io/badge/Node%20JS%20Course-Scaler-blue?style=flat-square&logo=Node.js&logoColor=white)](https://moonshot.scaler.com/s/li/sCr2Zyqbc6)
+[![Front End Web Development - Meta]
+[![CyberSecurity Specialization - Google]
+[![Node JS Course – Scalar]
