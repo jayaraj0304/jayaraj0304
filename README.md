@@ -1,61 +1,74 @@
-<h1 align="center"> Hi, I'm jayaraj! <img src="https://media.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" height="35" width="33"></h1>
+<div align="center">
 
-<p align="center">
-  <a>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&height=60&lines=Aspiring+SDE+%7C+Building+Scalable+Solutions;Debugging+Reality+%E2%9C%94+Decrypting+Possibilities;Architecting+Tomorrow's+Tech+Today;Perpetual+Learner+%7C+Curious+Mind+%F0%9F%94%8D" alt="Typing SVG">
-  </a>
-</p>
+<!-- Animated Typing Intro -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Jayaraj+👋;Full-Stack+%7C+Cloud+%7C+AI+Developer;Building+Real-World+Tech+🚀;Learning.+Building.+Evolving." />
 
 ---
 
-## 🚀 Tech Stack
+## 💫 About Me  
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+🌱 Passionate about **Full-Stack, Cloud & AI-powered Applications**  
+💻 Working with **React, Next.js, Node.js, Firebase, Supabase, Google Cloud**  
+🧠 Exploring **AI, LLMs, Automation & Scalable Systems**  
+✨ Fast learner | Hackathon enthusiast | Problem solver  
+
+I enjoy building **impact-driven projects**, experimenting with emerging tech,  
+and pushing my limits through real-world challenges. 🌌  
 
 ---
 
-### 📊 Stats
-![Jayaraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayaraj0304&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayaraj0304&layout=compact&theme=radical)
-![Codolio Stats](https://codolio.com/profile/jayaraj0304)
-
-
----
-
-### 📫 Contact Information
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jayarajthamatam123@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jayaraj-thamatam1)
+## 🌐 Connect With Me
+[![Instagram](https://img.shields.io/badge/Instagram-00F7FF?style=for-the-badge&logo=instagram&logoColor=black)](https://instagram.com/jayaraj_0304)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/jayaraj-thamatam-1)
+[![X](https://img.shields.io/badge/X-00F7FF?style=for-the-badge&logo=X&logoColor=black)](https://x.com/JayarajThamatam)
+[![Email](https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:jayarajthamatam123@gmail.com)
 
 ---
 
-### 🌐 Coding Profiles
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/jayaraj0304)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/jayarajthamatam1) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/jayaraj0304)
+<img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="420"/>
 
 ---
 
-### 📜 Certifications/Courses
+## 🧠 AI • ML • Cloud Highlights ⚡
+- 🤖 AI-powered interview & assessment systems  
+- 🧠 LLM-based feedback & automation workflows  
+- ☁️ Cloud-native apps using **Google Cloud & Firebase**  
+- 🔐 Secure, scalable backend architectures  
+- 📊 Data-driven decision systems  
 
-[![Front End Web Development - Meta]
-[![CyberSecurity Specialization - Google]
-[![Node JS Course – Scalar]
+---
+
+## 💻 Tech Stack (Dark Neon)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00F7FF)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00F7FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00F7FF)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00F7FF)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00F7FF)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=00F7FF)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00F7FF)
+![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=00F7FF)
+![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=00F7FF)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-000000?style=for-the-badge&logo=google-cloud&logoColor=00F7FF)
+
+---
+
+## 📌 Pinned Projects (Featured)
+> ⭐ Replace repo names if needed
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jayaraj0304&repo=AI-Interview-App&theme=tokyonight)](https://github.com/jayaraj0304)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jayaraj0304&repo=Cloud-Web-App&theme=tokyonight)](https://github.com/jayaraj0304)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jayaraj0304&repo=FullStack-Project&theme=tokyonight)](https://github.com/jayaraj0304)
+
+---
+
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=jayaraj0304&theme=tokyonight&hide_border=true)
+![](https://nirzak-streak-stats.vercel.app/?user=jayaraj0304&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jayaraj0304&layout=compact&theme=tokyonight)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=jayaraj0304&icon=0&color=00F7FF)](https://visitcount.itsvg.in)
+
+<!-- Built with ⚡ by Jayaraj -->
+</div>
