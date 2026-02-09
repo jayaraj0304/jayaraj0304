@@ -1,27 +1,27 @@
 <div align="center">
 
 <!-- Animated Typing Intro -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Jayaraj+👋;Full-Stack+%7C+Cloud+%7C+AI+Developer;Building+Real-World+Tech+🚀;Learning.+Building.+Evolving." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Jayaraj+👋;Full-Stack+%7C+Cloud+%7C+AI+Developer;Building+AI-Powered+Real-World+Apps;Hackathons.+Projects.+Innovation." />
 
 ---
 
-## 💫 About Me  
+## 🌌 About Me  
 
-🌱 Passionate about **Full-Stack, Cloud & AI-powered Applications**  
-💻 Working with **React, Next.js, Node.js, Firebase, Supabase, Google Cloud**  
-🧠 Exploring **AI, LLMs, Automation & Scalable Systems**  
-✨ Fast learner | Hackathon enthusiast | Problem solver  
+🌱 Passionate about **Full-Stack, Cloud & AI Systems**  
+💻 Tech stack: **React, Next.js, Node.js, Firebase, Supabase, Google Cloud**  
+🧠 Focus areas: **AI, LLMs, Automation, Scalable Architectures**  
+⚡ Fast learner | Hackathon builder | Problem solver  
 
-I enjoy building **impact-driven projects**, experimenting with emerging tech,  
-and pushing my limits through real-world challenges. 🌌  
+I love designing **impact-driven applications**, experimenting with  
+emerging technologies, and turning ideas into production-ready systems.  
 
 ---
 
 ## 🌐 Connect With Me
-[![Instagram](https://img.shields.io/badge/Instagram-00F7FF?style=for-the-badge&logo=instagram&logoColor=black)](https://instagram.com/jayaraj_0304)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/jayaraj-thamatam-1)
-[![X](https://img.shields.io/badge/X-00F7FF?style=for-the-badge&logo=X&logoColor=black)](https://x.com/JayarajThamatam)
-[![Email](https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:jayarajthamatam123@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00F7FF)](https://instagram.com/jayaraj_0304)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00F7FF)](https://linkedin.com/in/jayaraj-thamatam-1)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=00F7FF)](https://x.com/JayarajThamatam)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00F7FF)](mailto:jayarajthamatam123@gmail.com)
 
 ---
 
@@ -30,15 +30,15 @@ and pushing my limits through real-world challenges. 🌌
 ---
 
 ## 🧠 AI • ML • Cloud Highlights ⚡
-- 🤖 AI-powered interview & assessment systems  
-- 🧠 LLM-based feedback & automation workflows  
+- 🤖 AI-powered interview & assessment platforms  
+- 🧠 LLM-based feedback, evaluation & automation systems  
 - ☁️ Cloud-native apps using **Google Cloud & Firebase**  
-- 🔐 Secure, scalable backend architectures  
-- 📊 Data-driven decision systems  
+- 🔐 Secure APIs, authentication & scalable backends  
+- 📊 Data-driven insights & intelligent workflows  
 
 ---
 
-## 💻 Tech Stack (Dark Neon)
+## 💻 Tech Stack (Neon Mode)
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00F7FF)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00F7FF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00F7FF)
@@ -52,12 +52,18 @@ and pushing my limits through real-world challenges. 🌌
 
 ---
 
-## 📌 Pinned Projects (Featured)
-> ⭐ Replace repo names if needed
+## 📌 Featured Projects 🚀
+<!-- Auto-picks top repos by stars & activity -->
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jayaraj0304&repo=ai-recruiter-web-app&theme=tokyonight)](https://github.com/jayaraj0304)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jayaraj0304&repo=fullstack-web-app&theme=tokyonight)](https://github.com/jayaraj0304)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jayaraj0304&repo=cloud-project&theme=tokyonight)](https://github.com/jayaraj0304)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jayaraj0304&repo=AI-Interview-App&theme=tokyonight)](https://github.com/jayaraj0304)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jayaraj0304&repo=Cloud-Web-App&theme=tokyonight)](https://github.com/jayaraj0304)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jayaraj0304&repo=FullStack-Project&theme=tokyonight)](https://github.com/jayaraj0304)
+> 💡 You can rename repos above to match your **actual best projects**
+
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=jayaraj0304&theme=onestar&no-frame=true&row=1)
 
 ---
 
@@ -68,7 +74,13 @@ and pushing my limits through real-world challenges. 🌌
 
 ---
 
+## 🐍 Contribution Snake
+![snake animation](https://github.com/jayaraj0304/jayaraj0304/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 [![](https://visitcount.itsvg.in/api?id=jayaraj0304&icon=0&color=00F7FF)](https://visitcount.itsvg.in)
 
-<!-- Built with ⚡ by Jayaraj -->
+<!-- Crafted with ⚡ Dark Neon Energy by Jayaraj -->
+
 </div>
