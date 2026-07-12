@@ -1,6 +1,6 @@
 <!-- PREMIUM HERO BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/view?type=waving&color=1a1b26&height=280&section=header&text=Thamatam%20Jayaraj&fontSize=55&animation=fadeIn&fontColor=7aa2f7&desc=Computer%20Science%20%26%20Data%20Science%20Engineer%20%7C%20AI%20%26%20Full-Stack%20Architect&descSize=22&descAlignY=65&descAlign=50" width="100%" alt="Hero Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b26&height=280&section=header&text=Thamatam%20Jayaraj&fontSize=55&animation=fadeIn&fontColor=7aa2f7&desc=Computer%20Science%20%26%20Data%20Science%20Engineer%20%7C%20AI%20%26%20Full-Stack%20Architect&descSize=22&descAlignY=65&descAlign=50" width="100%" alt="Hero Banner" />
 </p>
 
 <!-- TYPING ANIMATION -->
